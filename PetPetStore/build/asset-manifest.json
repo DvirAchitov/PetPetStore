@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/PetPetStore/static/css/main.281c4b2b.chunk.css",
+    "main.js": "/PetPetStore/static/js/main.4371dc32.chunk.js",
+    "main.js.map": "/PetPetStore/static/js/main.4371dc32.chunk.js.map",
+    "runtime-main.js": "/PetPetStore/static/js/runtime-main.24fdef28.js",
+    "runtime-main.js.map": "/PetPetStore/static/js/runtime-main.24fdef28.js.map",
+    "static/css/2.4b2986b6.chunk.css": "/PetPetStore/static/css/2.4b2986b6.chunk.css",
+    "static/js/2.eda7e0ab.chunk.js": "/PetPetStore/static/js/2.eda7e0ab.chunk.js",
+    "static/js/2.eda7e0ab.chunk.js.map": "/PetPetStore/static/js/2.eda7e0ab.chunk.js.map",
+    "static/js/3.d435464a.chunk.js": "/PetPetStore/static/js/3.d435464a.chunk.js",
+    "static/js/3.d435464a.chunk.js.map": "/PetPetStore/static/js/3.d435464a.chunk.js.map",
+    "static/js/4.c7aa9c5a.chunk.js": "/PetPetStore/static/js/4.c7aa9c5a.chunk.js",
+    "static/js/4.c7aa9c5a.chunk.js.map": "/PetPetStore/static/js/4.c7aa9c5a.chunk.js.map",
+    "static/js/5.9645f390.chunk.js": "/PetPetStore/static/js/5.9645f390.chunk.js",
+    "static/js/5.9645f390.chunk.js.map": "/PetPetStore/static/js/5.9645f390.chunk.js.map",
+    "index.html": "/PetPetStore/index.html",
+    "static/css/2.4b2986b6.chunk.css.map": "/PetPetStore/static/css/2.4b2986b6.chunk.css.map",
+    "static/css/main.281c4b2b.chunk.css.map": "/PetPetStore/static/css/main.281c4b2b.chunk.css.map",
+    "static/js/2.eda7e0ab.chunk.js.LICENSE.txt": "/PetPetStore/static/js/2.eda7e0ab.chunk.js.LICENSE.txt",
+    "static/js/3.d435464a.chunk.js.LICENSE.txt": "/PetPetStore/static/js/3.d435464a.chunk.js.LICENSE.txt",
+    "static/js/4.c7aa9c5a.chunk.js.LICENSE.txt": "/PetPetStore/static/js/4.c7aa9c5a.chunk.js.LICENSE.txt",
+    "static/js/5.9645f390.chunk.js.LICENSE.txt": "/PetPetStore/static/js/5.9645f390.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/PetPetStore/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/all.min.css": "/PetPetStore/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24fdef28.js",
+    "static/css/2.4b2986b6.chunk.css",
+    "static/js/2.eda7e0ab.chunk.js",
+    "static/css/main.281c4b2b.chunk.css",
+    "static/js/main.4371dc32.chunk.js"
+  ]
+}
