@@ -1,0 +1,51 @@
+.collapse-content .fa.fa-heart:hover {
+    color: #f44336 !important;
+}
+.collapse-content .fa.fa-share-alt:hover {
+    color: #0d47a1 !important;
+}
+.productcards{
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.logo{
+    background-color: #528ecc;
+    height: 150px;
+    width: 150px;
+}
+.back{
+
+}
+.productinformation{
+    opacity: 0.5;
+}
+.productinformation:hover{
+    opacity: 1.0;
+    font-size: 15px;
+}
+.img{
+    padding: 5px;
+    width: 100%;
+}
+.container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.box{
+    background-color: #528ecc;
+}
+
+.child {
+    padding-right: 10px;
+    padding-bottom: 200px;
+    font-size: 10px;
+    left: 1500px;
+    width: 33%;
+    height: 600px;
+    border: 3px solid black;
+    text-align: center;
+}
